@@ -1,6 +1,6 @@
 # Source data (may contain personal information). Remove this line only if
 # the dataset is synthetic or you are allowed to publish it.
-data/*.csv
+# data/*.csv
 
 # Database dumps and local files
 *.dump
