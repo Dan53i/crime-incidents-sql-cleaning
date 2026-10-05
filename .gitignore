@@ -1,0 +1,20 @@
+# Source data (may contain personal information). Remove this line only if
+# the dataset is synthetic or you are allowed to publish it.
+data/*.csv
+
+# Database dumps and local files
+*.dump
+*.backup
+*.sqlite
+*.db
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebooks and Python (if you add analysis later)
+.ipynb_checkpoints/
+__pycache__/
+.venv/
